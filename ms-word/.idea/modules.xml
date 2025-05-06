@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/docx.iml" filepath="$PROJECT_DIR$/docx.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ms-word.iml" filepath="$PROJECT_DIR$/.idea/ms-word.iml" />
     </modules>
   </component>
 </project>
